@@ -1,0 +1,11 @@
+albumentations
+matplotlib
+numpy
+opencv-python-headless
+pandas
+pillow
+pycocotools
+roboflow
+scikit-learn
+torch
+torchvision
